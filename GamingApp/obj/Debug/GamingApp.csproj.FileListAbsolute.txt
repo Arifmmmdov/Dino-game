@@ -1,0 +1,12 @@
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\bin\Debug\GamingApp.exe
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\bin\Debug\GamingApp.pdb
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.csproj.AssemblyReference.cache
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.DinoGame.resources
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.Properties.Resources.resources
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.csproj.GenerateResource.cache
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.csproj.CoreCompileInputs.cache
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.exe
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.pdb
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\bin\Debug\aa\GamingApp.resources.dll
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\GamingApp.DinoGame.aa.resources
+C:\Users\Arif\OneDrive\Masaüstü\GamingApp\GamingApp\obj\Debug\aa\GamingApp.resources.dll
